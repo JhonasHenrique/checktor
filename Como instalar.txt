@@ -1,0 +1,1 @@
+Abra o terminal: ctrl + t execute o script dependecias.py e depois basta rodar o programa cujo é o: checktor.py qualquer erro ou sugestões entre em contato:Jhonascontato@gmail.com Até! 
